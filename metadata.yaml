@@ -1,0 +1,37 @@
+_repo: Two-Months-in-the-Camp-of-Big-Bear_6604
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Gowanlock, Theresa
+    alias: Johnson, Theresa
+    birthdate: 1863
+    deathdate: 1899
+    gutenberg_agent_id: '2111'
+    url: http://www.gutenberg.org/2009/agents/2111
+  - agent_name: Delaney, Theresa
+    alias: Fulford, Theresa
+    birthdate: 1849
+    deathdate: 1913
+    gutenberg_agent_id: '2112'
+    url: http://www.gutenberg.org/2009/agents/2112
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6604'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delaney, Theresa, 1849-1913 -- Captivity'
+- !lcsh 'Cree Indians -- Alberta -- History -- 19th century'
+- !lcsh 'Frog Lake (Alta.) -- History -- 19th century'
+- !lcsh 'Riel Rebellion, 1885'
+- !lcsh 'Gowanlock, Theresa, 1863-1899 -- Captivity'
+- !lcsh 'Big Bear, (Cree chief)'
+- !lcc 'E011'
+- GITenberg
+title: Two Months in the Camp of Big Bear
+url: http://www.gutenberg.org/ebooks/6604
