@@ -1,5 +1,8 @@
 _repo: Two-Months-in-the-Camp-of-Big-Bear_6604
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Gowanlock, Theresa
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '2112'
     url: http://www.gutenberg.org/2009/agents/2112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6604#Two-Months-in-the-Camp-of-Big-Bear
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
